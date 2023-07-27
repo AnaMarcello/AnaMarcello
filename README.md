@@ -1,4 +1,5 @@
 ### Hi there 👋
+```
 💻 I’m currently working at Avanade
 😄 Pronouns: She/Her
 😍 I’m love:
@@ -7,7 +8,7 @@
 😻 Cats
 👘:Martial arts - Tai chi
 🎮 Games
-
+```
 "Quem vive na Luz interior da verdade, vê o divino e o sagrado em todos os seres." Bhagavad Ghita
 <!--
 **AnaMarcello/AnaMarcello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
