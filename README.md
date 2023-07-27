@@ -1,5 +1,5 @@
 ### Hi there 👋
-###🔭 I’m currently working on Avanade
+###💻 I’m currently working at Avanade
 ###😄 Pronouns: She/Her
 ###🌱 I’m love the games, martial arts(Tai chi) and Environmental
 <!--
@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 
 - 
-- 
+- 🔭
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
