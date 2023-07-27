@@ -5,7 +5,7 @@
 🌱 Environment
 ⛱️ Beach
 😻 Cats
-:Tai_chi:Martial arts - Tai chi
+👘:Martial arts - Tai chi
 🎮 Games
 
 "Quem vive na Luz interior da verdade, vê o divino e o sagrado em todos os seres." Bhagavad Ghita
