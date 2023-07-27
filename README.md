@@ -5,9 +5,10 @@
 😍 I’m love:
 🌱 Environment
               ⛱️ Beach
-                        😻 Cats
-                                👘 Martial arts - Tai chi
-                                                          🎮 Games
+                        🐈‍⬛Cats
+                                🎮 Games
+                                         👘 Martial arts - Tai chi
+                                                          
 ```
 "Quem vive na Luz interior da verdade, vê o divino e o sagrado em todos os seres." Bhagavad Ghita
 <!--
