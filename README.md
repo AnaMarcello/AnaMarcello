@@ -4,10 +4,10 @@
 😄 Pronouns: She/Her
 😍 I’m love:
 🌱 Environment
-⛱️ Beach
-😻 Cats
-👘:Martial arts - Tai chi
-🎮 Games
+              ⛱️ Beach
+                        😻 Cats
+                                👘 Martial arts - Tai chi
+                                                          🎮 Games
 ```
 "Quem vive na Luz interior da verdade, vê o divino e o sagrado em todos os seres." Bhagavad Ghita
 <!--
