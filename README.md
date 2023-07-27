@@ -1,7 +1,7 @@
 ### Hi there 👋
-###💻 I’m currently working at Avanade
-###😄 Pronouns: She/Her
-###🌱 I’m love the games, martial arts(Tai chi) and Environmental
+💻 I’m currently working at Avanade
+😄 Pronouns: She/Her
+🌱 I’m love the games, martial arts(Tai chi) and Environmental
 <!--
 **AnaMarcello/AnaMarcello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
